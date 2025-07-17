@@ -1,7 +1,7 @@
 
 
 
-# ✈️ Power BI Project: Airlines Flight Delay Analysis
+# ✈️ Power BI DashBoard: Airlines Flight Delay Analysis
 
 This project uses **Power BI** to analyze flight delay data from major airlines. It aims to identify the causes, patterns, and frequency of delays, helping stakeholders understand operational inefficiencies and improve on-time performance.
 
